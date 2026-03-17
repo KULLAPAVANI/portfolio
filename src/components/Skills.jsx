@@ -32,12 +32,10 @@ const Skills = () => {
     { name: 'Python', percentage: 85, color: 'from-green-500 to-green-600' },
     { name: 'HTML', percentage: 90, color: 'from-orange-500 to-orange-600' },
     { name: 'CSS', percentage: 80, color: 'from-blue-500 to-blue-600' },
-    { name: 'JavaScript', percentage: 85, color: 'from-yellow-500 to-yellow-600' },
-    { name: 'VS Code', percentage: 90, color: 'from-purple-500 to-purple-600' },
+    { name: 'JavaScript', percentage: 40, color: 'from-yellow-500 to-yellow-600' },
     { name: 'Git', percentage: 75, color: 'from-pink-500 to-pink-600' },
-    { name: 'GitHub', percentage: 80, color: 'from-indigo-500 to-indigo-600' },
-    { name: 'Cloud Computing', percentage: 70, color: 'from-cyan-500 to-cyan-600' },
-    { name: 'Machine Learning', percentage: 75, color: 'from-red-500 to-red-600' }
+    { name: 'Flask', percentage: 45, color: 'from-purple-500 to-purple-600' },
+    { name: 'Cloud Computing', percentage: 70, color: 'from-cyan-500 to-cyan-600' }
   ];
 
   const professionalSkills = [
